@@ -6,5 +6,6 @@ namespace Vuckovic_1
 {
     class NewClass
     {
+        Console.WriteLine("Hello");
     }
 }
