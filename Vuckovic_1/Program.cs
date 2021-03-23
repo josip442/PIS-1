@@ -8,6 +8,8 @@ namespace Vuckovic_1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            
+            Console.WriteLine("Novije");
         }
     }
 }
